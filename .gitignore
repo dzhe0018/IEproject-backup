@@ -17,6 +17,8 @@
 /wp-*.php
 /xmlrpc.php
 
+/dashboard
+
 # Configuration
 wp-config.php
 
